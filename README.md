@@ -1,17 +1,19 @@
-# PerceptronNetwork - Blockmesh Bot
+# Blockmesh Bot
 
-📢 Tutorial: https://t.me/forestarmy
 
 ---
 
 ## ⚙️ Install & Run
 
 ```bash
-git clone https://github.com/itsmesatyavir/PerceptronNetwork
+git clone https://github.com/Hoanghienvi/Blockmesh-Network.git
 ```
 
 ```bash
-cd PerceptronNetwork
+cd Blockmesh-Network
+screen -S blockmesh
+python3 -m venv venv
+source venv/bin/activate
 ```
 
 ```bash
@@ -47,7 +49,3 @@ Use proxies? (y/n)
 - `n` → Uses your direct internet connection
 
 ---
-
-## 💬 Support
-
-- Telegram: [@forestarmy](https://t.me/forestarmy)
